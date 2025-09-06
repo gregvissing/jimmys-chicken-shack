@@ -74,3 +74,8 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+.container {
+    max-width: 100%;
+    width: 1024px;
+}
